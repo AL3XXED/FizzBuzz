@@ -1,0 +1,15 @@
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\bin\Debug\net8.0\FizzBuzz.exe
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\bin\Debug\net8.0\FizzBuzz.deps.json
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\bin\Debug\net8.0\FizzBuzz.runtimeconfig.json
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\bin\Debug\net8.0\FizzBuzz.dll
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\bin\Debug\net8.0\FizzBuzz.pdb
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.sourcelink.json
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.dll
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\obj\Debug\net8.0\refint\FizzBuzz.dll
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
+C:\Users\HasenkrugAlexander\source\repos\Übungen\Übungen\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll
