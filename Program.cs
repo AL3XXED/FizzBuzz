@@ -13,6 +13,7 @@
             for ( int i = 1; i <= 100;  i++ ) 
             {
                 Thread.Sleep( 500 );
+
                 if (i % 3 == 0 && i % 5 == 0)
                 {
                     Console.WriteLine($"{i}-FizzBuzz");
